@@ -1,0 +1,16 @@
+{
+  "name": "5c_network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request-promise": "^4.2.5",
+    "body-parser": "^1.18.3"
+  }
+}
